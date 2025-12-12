@@ -1,13 +1,20 @@
-tqdm
-faker>=21.0.0
-scikit-learn
-torch>=2.0.0
+
 streamlit
 pandas
 numpy
 matplotlib
 seaborn
 scipy
-sdv
 chardet
 openpyxl
+xlsxwriter
+sdv
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
+copulas
+rdt
+tqdm
+scikit-learn
+faker
